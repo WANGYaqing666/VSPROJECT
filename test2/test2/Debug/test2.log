@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\vsproject\test2\test2\main.cpp(46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\test2\test2\main.cpp(98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\test2\test2\main.cpp(117): warning C4018: “<”: 有符号/无符号不匹配
+  test2.vcxproj -> E:\VSPROJECT\test2\Debug\test2.exe
+  test2.vcxproj -> E:\VSPROJECT\test2\Debug\test2.pdb (Full PDB)

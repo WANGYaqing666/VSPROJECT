@@ -1,0 +1,6 @@
+﻿  main.cpp
+e:\vsproject\optical flow\optical flow\main.cpp(44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\optical flow\optical flow\main.cpp(96): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\optical flow\optical flow\main.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+  optical flow.vcxproj -> E:\VSPROJECT\optical flow\Debug\optical flow.exe
+  optical flow.vcxproj -> E:\VSPROJECT\optical flow\Debug\optical flow.pdb (Full PDB)

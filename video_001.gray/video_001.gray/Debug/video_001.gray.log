@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\vsproject\video_001.gray\video_001.gray\main.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  video_001.gray.vcxproj -> E:\VSPROJECT\video_001.gray\Debug\video_001.gray.exe
+  video_001.gray.vcxproj -> E:\VSPROJECT\video_001.gray\Debug\video_001.gray.pdb (Full PDB)

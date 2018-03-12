@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\vsproject\video1\video1\main.cpp(10): error C2374: “capture”: 重定义；多次初始化
+  e:\vsproject\video1\video1\main.cpp(8): note: 参见“capture”的声明

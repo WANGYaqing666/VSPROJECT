@@ -1,0 +1,80 @@
+﻿生成启动时间为 2017/11/23 19:43:16。
+     1>项目“E:\VSPROJECT\test\test.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "D:\OpenCV 2.4.9\3_DOF_servoing.cpp"
+         3_DOF_servoing.cpp
+     1>d:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(124): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(125): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(133): error C2668: “sqrt”: 对重载函数的调用不明确
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(541): 或       “float sqrt(float)”
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(138): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(138): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(149): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(149): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(150): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(150): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(150): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(151): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(151): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(151): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(154): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(154): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(157): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(158): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(158): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(162): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(162): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(165): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(165): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(165): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(178): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(178): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(182): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(182): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(183): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(183): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(184): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(184): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(185): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(185): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(226): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(226): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(234): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(235): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(236): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(237): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(238): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(239): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(240): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(263): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(276): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(276): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(279): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(279): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(295): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(295): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>d:\opencv 2.4.9\3_dof_servoing.cpp(328): error C2668: “sqrt”: 对重载函数的调用不明确
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(589): 可能是“long double sqrt(long double)”
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(541): 或       “float sqrt(float)”
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\math.h(127): 或       “double sqrt(double)”
+                 尝试匹配参数列表“(int)”时
+     1>已完成生成项目“E:\VSPROJECT\test\test.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.07

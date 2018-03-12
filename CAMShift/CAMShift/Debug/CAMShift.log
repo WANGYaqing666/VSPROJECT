@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\vsproject\camshift\camshift\main.cpp(37): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\camshift\camshift\main.cpp(38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\camshift\camshift\main.cpp(39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vsproject\camshift\camshift\main.cpp(40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  CAMShift.vcxproj -> E:\VSPROJECT\CAMShift\Debug\CAMShift.exe
+  CAMShift.vcxproj -> E:\VSPROJECT\CAMShift\Debug\CAMShift.pdb (Full PDB)

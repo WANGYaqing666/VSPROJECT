@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\vsproject\test123\test123\源.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  test123.vcxproj -> E:\VSPROJECT\test123\Debug\test123.exe
+  test123.vcxproj -> E:\VSPROJECT\test123\Debug\test123.pdb (Full PDB)
